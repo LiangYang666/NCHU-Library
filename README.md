@@ -1,7 +1,9 @@
 # NCHU-Library
 
+
 南昌航空大学图书馆模型
 
+## Star the [Repository](https://github.com/LiangYang666/NCHU-Library)  
 19年时自己绘制的
 
 ![image](https://github.com/LiangYang666/NCHU-Library/assets/38237931/c664d2c9-0379-4094-b74e-544a6674eb76)
